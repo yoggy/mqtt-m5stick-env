@@ -5,7 +5,7 @@ mqtt-m5stick-env
 
 Copyright and license
 ----
-Copyright (c) 2018 yoggy
+Copyright (c) 2019 yoggy
 
 Released under the [MIT license](LICENSE.txt)
 
